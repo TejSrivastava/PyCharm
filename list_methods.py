@@ -1,0 +1,11 @@
+numbers=[1,2,3,4,5,6]
+numbers.append(20)
+print(numbers)
+numbers.insert(0,10)
+print(numbers)
+numbers.remove(5)
+print(numbers)
+numbers.clear()
+print(numbers)
+numbers.pop()
+print(numbers)
